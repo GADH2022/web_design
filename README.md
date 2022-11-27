@@ -10,3 +10,4 @@ humidity.html: This contains the html code to create the humidity plot page.
 windspeed.html: This contains the html code to create the wind plot page.
 cloudiness.html: This contains the html code to create the cloudiness plot page.
 maxTemp.html: This contains the html code to create the temperature plot page
+assets folder: Thos folder contains my style.css and images folder.
